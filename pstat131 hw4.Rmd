@@ -174,4 +174,4 @@ titanic_augment
 ```
 Compare your model’s testing accuracy to its average accuracy across folds. Describe what you see.
 
-They are very close to each other, except testing accuracy holds higher accuracy than average accuracy. This proves that using k-fold cross validation on the datasets leads to greater accuracy with logistic regression models. 
+They are very close to each other, except testing accuracy holds higher accuracy than average accuracy.
